@@ -1,0 +1,8 @@
+to create project:
+    - yarn hardhat
+
+to compile solidity
+    - yarn hardhat compile
+    - npx hardhat compile
+
+apparently using "external" is cheaper than "public" 
